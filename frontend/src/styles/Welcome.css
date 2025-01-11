@@ -1,0 +1,35 @@
+/* src/styles/Welcome.css */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #4f46e5, #9333ea);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+}
+
+a {
+    padding: 10px 20px;
+    background: white;
+    color: #4f46e5;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+a:hover {
+    background: #e5e7eb;
+}

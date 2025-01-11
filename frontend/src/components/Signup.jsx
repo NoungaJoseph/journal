@@ -1,5 +1,6 @@
 // src/components/Signup.js
 import  'react';
+import '../styles/Signup.css';
 
 const Signup = () => {
   return (

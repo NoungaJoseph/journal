@@ -1,6 +1,7 @@
 // src/components/Introduction.js
 import 'react';
 import { Link } from 'react-router-dom';
+import '../styles/Introduction.css';
 
 const Introduction = () => {
   return (

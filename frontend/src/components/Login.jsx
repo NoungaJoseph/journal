@@ -1,5 +1,6 @@
 // src/components/Login.js
 import 'react';
+import '../styles/Login.css';
 
 const Login = () => {
   return (
